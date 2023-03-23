@@ -26,6 +26,9 @@
 ### Key: stack 
 ### Value: name_of_resource 
 
+export AWS_ACCESS_KEY_ID=AKIA2HONFJ2DOULULXJO
+export AWS_SECRET_ACCESS_KEY=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
+export AWS_DEFAULT_REGION=us-east-1
 
 
 ### AWS Elastic IP Addresses:
